@@ -99,6 +99,16 @@ Feel free to contribute by adding:
 
 ## 📬 Contact
 
-Have questions or suggestions? Feel free to open an issue or contact the maintainer via [LinkedIn](https://linkedin.com).
+Questions or feedback? Reach out via [LinkedIn](https://www.linkedin.com/in/rixscx) or open an issue on this repository.
 
+
+
+### 🙌 **Contributors**
+#### [Manish P](https://github.com/rixscx) <br>
+#### under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu) <br>
 ---
+
+❤️ Thank You!
+Thank you for checking out our project! We hope this inspires you to explore the intersection of AI and healthcare. Feel free to reach out for questions, suggestions, or collaborations.
+
+<br><br>
